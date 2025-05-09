@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning System Archteture
 - 💞️ I’m looking to collaborate on C# ope source projects
 - 📫 How to reach me:
-- - send an email to tiagosilva.tj@hotmail.com
+  - send an email to (tiagosilva.tj@hotmail.com)
   - call me on [Linkedin](https://www.linkedin.com/in/tiago-silva-do-nascimento/)
 
 <!---
