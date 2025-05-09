@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tiago Silva do Nascimento
 - My username here in github is @CadnunsDimir
-- 👀 I’m interested in Bikes, Computers, andMusic
+- 👀 I’m interested in Bikes, Computers, and Music
 - 🌱 I’m currently learning System Archteture
-- 💞️ I’m looking to collaborate on C# ope source projects
+- 💞️ I’m looking to collaborate on C#, Java and Angular open source projects
 - 📫 How to reach me:
   - send an email to tiagosilva.tj@hotmail.com
   - call me on [Linkedin](https://www.linkedin.com/in/tiago-silva-do-nascimento/)
